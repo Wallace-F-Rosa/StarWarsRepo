@@ -1,6 +1,6 @@
 # Star Wars Repo
 
-!(./tiefighter.png)
+![tiefighter](./tiefighter.png)
 
 Aprendendo a usar o git-scm
 
